@@ -1,1 +1,1 @@
-[![AWS Certified Cloud Practitioner](https://images.credly.com/size/120x120/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/e8bfc40c-cc61-4307-8c29-84b57f5c931b/public_url)
+[![AWS Certified Cloud Practitioner]([https://images.credly.com/size/120x120/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/e8bfc40c-cc61-4307-8c29-84b57f5c931b/public_url](https://www.credly.com/badges/9da8bf39-8233-43bf-812f-aa6592e37a5b/public_url))
