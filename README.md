@@ -1,4 +1,4 @@
-# Hi there, I'm [Divya Sharma] 👋
+# Hi there, I'm Divya Sharma 👋
 
 ## 🚀 About Me
 I am a passionate Backend Developer with a deep love for technology and innovation. I strive to create seamless and efficient digital experiences. I am always eager to learn and grow, embracing new challenges and opportunities.
@@ -21,4 +21,4 @@ I am a passionate Backend Developer with a deep love for technology and innovati
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/divya-sharma-1b9463204/)
+[![LinkedIn](https://www.linkedin.com/in/divya-sharma-1b9463204/)
