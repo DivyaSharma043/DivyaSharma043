@@ -1,16 +1,21 @@
-## Hi there 👋
+name: Update badges
 
-<!--
-**DivyaSharma043/DivyaSharma043** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+on:
+  schedule:
+    # Runs at 2am UTC
+    - cron: "0 2 * * *"
+jobs:
+  update-readme:
+    name: Update Readme with badges
+    runs-on: ubuntu-latest
+    steps:
+      - name: Badges - Readme
+        uses: pemtajo/badge-readme@main
+        with:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          REPOSITORY: <username>/<username> # optional, By default, it will automatically use the repository who's executing the workflow.
+          COMMIT_MESSAGE: "My commit message to update badges" # optional
+          CREDLY_USER: <username_credly> # optional, but default will use the same from github
+          CREDLY_SORT: RECENT or POPULAR # optional, this is the two forms from credly sort, more popular or recent first, by default use RECENT
+          BADGE_SIZE: the resolution to the badges images # optional, 110x110 default
+          NUMBER_LAST_BADGES: the maximum last badges to show # optional, will show the 48 in the first page
