@@ -21,4 +21,4 @@ I am a passionate Backend Developer with a deep love for technology and innovati
 
 ## 📫 Connect with Me
 
-[![LinkedIn (https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/divya-sharma-1b9463204/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([link-to-linkedin](https://www.linkedin.com/in/divya-sharma-1b9463204/))
