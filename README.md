@@ -17,7 +17,7 @@
                     <br/>
                     🌱 A certified AWS Developer Associate.
                     <br/>
-                    💬 Ask me about <strong>Java, SpringBoot, React... or anything <a href="https://github.com/divyasharma043/divyasharma043/issues">here</a></strong>
+                    💬 Ask me about <strong>Java, SpringBoot, React or anything <a href="https://github.com/divyasharma043/divyasharma043/issues">here</a></strong>
                 </p>
                 <div>
                     <a href="mailto:diviyabhardwaz@gmail.com">
